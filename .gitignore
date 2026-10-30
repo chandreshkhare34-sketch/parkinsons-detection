@@ -1,0 +1,27 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment caches
+.matplotlib_cache/
+.cache/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit config (optional)
+.streamlit/
